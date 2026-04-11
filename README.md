@@ -6,7 +6,7 @@
 
 An in-silico neuroscience experiment using [TRIBE v2](https://github.com/facebookresearch/tribev2) (Meta's Trimodal Brain Encoder)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/facebookresearch/tribev2/blob/main/tribe_demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GiulianoV8/tribev2_color_experiment/blob/main/experiment/Tribe_color_experiment.ipynb)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
